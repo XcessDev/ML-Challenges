@@ -1,0 +1,6 @@
+Accuracies obtained by using various Approaches :
+
+Approach										Accuracy
+
+1. Logistic Regression							  75.99 %
+2. Decision Tree                                  61.11 %
