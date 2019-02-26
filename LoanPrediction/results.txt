@@ -1,6 +1,9 @@
 Accuracies obtained by using various Approaches :
 
-Approach										Accuracy
+Approach										 Accuracy
 
-1. Logistic Regression							  75.99 %
+1. Logistic Regression							  75.69 %
 2. Decision Tree                                  61.11 %
+3. Logistic Regression with normalization		  76.39 %
+4. XG Boost										  77.08 %
+5. XG Boost with normalization					  75.69 %
