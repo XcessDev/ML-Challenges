@@ -7,3 +7,4 @@ Approach										 Accuracy
 3. Logistic Regression with normalization		  76.39 %
 4. XG Boost										  77.08 %
 5. XG Boost with normalization					  75.69 %
+6. SVM											  72.23 %
