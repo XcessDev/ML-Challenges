@@ -1,0 +1,5 @@
+## This file contains some learnings and facts obtained while solving various kinds of problems.
+
+
+1. Logisitic Regression by default uses L2 regularization.
+2. The parameter 'C' in logistic regularization is used to set strength of regularization. Smaller its value , stronger is regularization.
